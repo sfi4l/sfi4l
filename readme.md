@@ -1,4 +1,4 @@
-<pre style="color: red;">
+<pre>
 
     
      /$$$$$$     /$$                                           /$$ /$$   /$$                              
